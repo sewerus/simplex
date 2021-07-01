@@ -3,6 +3,8 @@
 
 Implementation and visualization of the Nelder-Mead algorithm - non-gradient methods of minimizing functions of many variables without constraints.
 
+To read this description with displayed math expressions, please, open rendered file README.ipynb. There is LATEX code, which is not rendered by Github on main page of projects.
+
 ## Table of contents
 * [Simplex](#simplex)
 	* [Setup](#setup)
